@@ -1,4 +1,5 @@
 ``**NETFLIX BACKGROUND**
+
 Netflix, founded in 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California, began as a DVD rental service offering subscriptions with no late fees. By 2007, it had pivoted to streaming, revolutionizing entertainment with on-demand content. Its strategic focus on original programming debuted in 2013 with *House of Cards*, leading to global hits like *Stranger Things* and *The Crown*. Operating in over 190 countries, Netflix offers a vast library of movies, TV shows, and documentaries. Leveraging data-driven recommendations and a user-centric interface, Netflix has become a leader in the streaming industry, shaping how audiences consume content worldwide.`
 
 **DATA SOURCE** 
@@ -58,7 +59,7 @@ tmdb_score: TMDB rating
 ![Screenshot 2025-01-26 194509](https://github.com/user-attachments/assets/5d1d5a50-cbbb-4f67-912a-f9663ac17d0a)
 
 - The chart shows a clear trend of Netflix’s increasing content production over the years, especially from the mid-2010s.
-- 
+  
 ![Screenshot 2025-01-26 194605](https://github.com/user-attachments/assets/01e1129c-4c0f-438b-8f48-292bfe5e0a4f)
 
 - The chart shows the TMDB popularity trends for movies and TV shows from 1970 to 2020, highlighting significant spikes around 2000 and a steady rise post-2010
@@ -70,11 +71,11 @@ tmdb_score: TMDB rating
 ![{143CA4FB-2305-41AE-83F9-5808DDE9A44A}](https://github.com/user-attachments/assets/3b8545a9-d71d-43d4-877b-0fe8875a31e2)
 
 - The chart shows the top 10 movies and shows by TMDB popularity, with *The Flash* leading at 1,079, followed by *Triptych* and *Grey’s Anatomy*.
-- 
+  
 ![Screenshot 2025-01-26 195140](https://github.com/user-attachments/assets/62308586-99ed-4af7-b1f7-d32b9da171aa)
 
 - This graph shows the average IMDB scores for movies released from 1970 to 2020.
-- 
+  
 ![Screenshot 2025-01-26 195007](https://github.com/user-attachments/assets/65012714-ad08-47a1-8e5b-050bf5e08018)
 
 - The graph shows the correlation between TMDB scores and IMDB scores for movies and shows released after 2010. The data points indicate a positive correlation, 
