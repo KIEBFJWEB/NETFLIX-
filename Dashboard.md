@@ -21,7 +21,7 @@
 
 ![Screenshot 2025-01-26 194747](https://github.com/user-attachments/assets/2a235efd-eac5-45d2-824b-9fc214bbc5d1)
 
--The chart shows the top 10 titles by IMDb votes, led by *The Dark Knight* with over 2 million votes, followed by *Forrest Gump* and *Breaking Bad*.
+- The chart shows the top 10 titles by IMDb votes, led by *The Dark Knight* with over 2 million votes, followed by *Forrest Gump* and *Breaking Bad*.
 
 ![{143CA4FB-2305-41AE-83F9-5808DDE9A44A}](https://github.com/user-attachments/assets/3b8545a9-d71d-43d4-877b-0fe8875a31e2)
 
