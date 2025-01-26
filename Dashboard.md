@@ -1,5 +1,5 @@
+**INSIGHTS**
 
-**Findings aFinding and Insights**
 ![Screenshot 2025-01-26 194333](https://github.com/user-attachments/assets/8ad1485c-5d19-4ead-80d3-4223052d3b9b)
 
 ![Screenshot 2025-01-25 210252](https://github.com/user-attachments/assets/eaccfe00-a619-4733-baf6-f1c4ace0c47f)
