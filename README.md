@@ -1,30 +1,47 @@
-```**NETFLIX BACKGROUND**
+**NETFLIX BACKGROUND**
 
 Netflix, founded in 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California, began as a DVD rental service offering subscriptions with no late fees. By 2007, it had pivoted to streaming, revolutionizing entertainment with on-demand content. Its strategic focus on original programming debuted in 2013 with *House of Cards*, leading to global hits like *Stranger Things* and *The Crown*. Operating in over 190 countries, Netflix offers a vast library of movies, TV shows, and documentaries. Leveraging data-driven recommendations and a user-centric interface, Netflix has become a leader in the streaming industry, shaping how audiences consume content worldwide.`
 
 **DATA SOURCE** 
+
 https://www.kaggle.com/datasets/dgoenrique/netflix-movies-and-tv-shows?select=titles.csv
 
 **CONTENTS**
+
 titles.csv: Contains details about more than 6,000 titles, with 15 columns including:
 
 id: JustWatch title ID (unique key)
+
 title: Title name
+
 show_type: Indicates if it’s a TV show or movie
+
 description: Brief overview
+
 release_year: Year of release
+
 age_certification: Age certification
+
 runtime: Duration of episodes (for shows) or movies
+
 genres: List of genres
+
 production_countries: Countries that produced the title
+
 seasons: Number of seasons (for TV shows)
+
 imdb_id: IMDB title ID
+
 imdb_score: IMDB rating
+
 imdb_votes: Number of IMDB votes
+
 tmdb_popularity: Popularity on TMDB
+
 tmdb_score: TMDB rating
 
 **RESEARCH QUESTION**
+
 1. What are the most popular movies and TV shows based on TMDB popularity?
 2. How does popularity (TMDB) trend over time for movies and TV shows?
 3. How has Netflix’s content production evolved annually for movies and TV shows?
@@ -83,4 +100,5 @@ This project provides a holistic view of Netflix's content, uncovering patterns 
 The Netflix dashboard created in Power BI is a valuable resource for exploring Netflix's impact on the entertainment industry and optimizing strategies to cater to diverse audiences worldwide.
 
 
+`
 `
